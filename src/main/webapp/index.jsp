@@ -14,7 +14,7 @@
         <title>Welcome page</title>
     </head>
     <body>
-        <h1>Welcome to GS-Tech DevOps Training Batch-1</h1>
+        <h1>Welcome to gs-Tech DevOps Training Batch-1</h1>
         
         <table>
             <tr><td>Login</td>
