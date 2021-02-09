@@ -14,7 +14,7 @@
         <title>Welcome page</title>
     </head>
     <body>
-        <h1>Welcome to Sem 2</h1>
+        <h1>Welcome to DevOps Training Batch-1</h1>
         
         <table>
             <tr><td>Login</td>
